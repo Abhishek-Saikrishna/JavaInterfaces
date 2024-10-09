@@ -8,6 +8,8 @@ public class Benz implements Car{
     public static void main(String args[])
     {
         Car obj1 = new Benz();
+        Car obj2 = new Toyoto();
         obj1.drive();
+        obj2.drive();
     }
 }
