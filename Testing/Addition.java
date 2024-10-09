@@ -10,7 +10,7 @@ public class Addition {
     }
     int add()
     {
-        System.out.println("The addition of two numbers is");
+        System.out.println("Changing it to Multiplication");
         System.out.println(firstNumber+secondNumber);
         return firstNumber+secondNumber;
     }
